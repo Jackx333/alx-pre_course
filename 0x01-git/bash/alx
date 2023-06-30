@@ -1,0 +1,17 @@
+#!/bin/bash
+echo " ALX"
+^C
+root@d5c4d3f58da1:/alx-pre_course/0x01-git/bash#cat > school
+#!/bin/bash
+echo " school"
+^c
+^C
+exit
+celar
+clear
+[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[C[C[C[C[D[D[D[D[D[D
+[B[A[D[C
+[A[B[C[D
+123[A[D[C[B
+cleqe
+PS1="$"
